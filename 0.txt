@@ -1,0 +1,61 @@
+project:
+Cookie
+0x0003 sniff(Application Data,Protocol,eq,Flags,Windows Size,Ack,...)
+smb,winrm(python-socket)
+zipfile/7zfile/xzfile brute and thread
+Netcat(Upload File,Recv File)
+Essid key brute(Linux)
+BadUSB(Unknown)
+0x52c Message(C#/C)
+Hooks(C#/C)
+ctfmon overflow(Unknown)
+Shot(metadata)
+Keylogger
+privilege::debug
+sekurlsa::logonpasswords(C/C++/C#)
+UAC Bypass(Windows) 
+brightness(pwsh)(Windows)
+DNS spoof
+Bluetooth(AT+CPBR=1,Upload File,Recv File,Pair)
+DNS (query type & domain name)
+smtp(python)
+light-out(led)(GitHub)
+evil-twin
+ssh-server & ssh-client
+-------------------------------------------------------------------------
+arp spoof(socket)(scapy)(complete)
+Essid scan(complete)
+Essid key brute(Windows)(complete)
+Bluetooth(complete)
+GeoLocation(exif data and javascript(html) and .mmdb)(complete)
+Eject USB Drive(Windows)(pwsh & vbs)(complete)
+Apache2(Agent IP & Visit Time)(php)(complete)
+ftp(anonymous)(Root Directory)(complete)
+Netcat(shell,recv)(complete)
+0x0003 sniff(src dst ttl Method Port)(complete)
+ICMP Header sniff(ttl dst src size)(lo)(complete)
+ScreenShot(complete)
+Shot(complete)
+smb(445) winrm rdp(3389)(pwsh)(bat)(windows)(complete)
+mouse position & mouse move & HotKey & LockScreen & clear recyclebin folder & Hide File & List dir & Start or Stop process or Service & privilege(TrusedInstaller) & MsgBox & Turn on or Turn off Firewall & Manage Startup & Run as Administrator(pwsh)(bat)(vbs)(windows)(complete)
+Login Eventlog clear eventlog(complete)
+Network Robot and Tor Proxy(meek... bridge) and User-Agent(complete)
+smtp(qq)(pwsh)(complete)
+rarfile brute(complete)
+Host Discover(netmask 255.255.255.0)(complete)
+Hexadecimal number systems(Binary,Octonary)to Decimal(complete)
+-------------------------------------------------------------------------------------------------------------
+requirement:
+'x86_64 GNU/Linux and apt or "python3 env and /usr/local/lib/python3.12/dist-packages and pwsh"' and root 
+Camera
+Bluetooth
+GPU
+Boot Sequence(UEFI)(Windows10 Pro WorkStation)(Ubuntu LTS 24.04 or Centos or Kali Linux 2024 or Debian 12)
+Intel Coporation Wireless
+USB 3.0
+512GB Disk and 16GB Memory
+-------------------------------------------------------------------------------------------------------------
+without:
+KeyBoard
+X Server(Gnome) or $DISPLAY(Linux)
+D: OutLook,Msedge,Mail,Clock,Microsoft 365 office,OneNote,Realtek Audio,Microsoft Store,Map,OneDrive,Skype(Windows)
