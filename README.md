@@ -14,7 +14,7 @@
 <a href="/20250207104905.png">20250207104905</a><br>
 <a href="/20250214212800.png">20250214212800</a><br>
 <a href="/20250128125816.png">20250128125816</a><br>
-<a href="/Figure_4.png">Figure_4.png</a><br>
+<a href="/Figure_4.png">Figure_4</a><br>
 <a href="/Figure_1.png">Figure_1</a><br>
 <a href="/Figure_2.png">Figure_2</a><br>
 <h3>All</h3>
